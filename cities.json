@@ -1,0 +1,18 @@
+{
+  "moscow": {
+    "name": "Москва",
+    "coordinate": {
+      "latitude": 55.751244,
+      "longitude": 37.618423
+    },
+    "zoomLevel": 9
+  },
+  "st.petersburg": {
+    "name": "Санкт-Петербург",
+    "coordinate": {
+      "latitude": 59.93863,
+      "longitude": 30.31413
+    },
+    "zoomLevel": 9
+  }
+}
