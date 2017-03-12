@@ -3,7 +3,10 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "hello1",
+        "description": "D189"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -14,23 +17,43 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.689971923828125,
-          55.7765730186677
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Hello2",
+        "description": "D2"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           37.514190673828125,
           55.73020335605107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hello3",
+        "description": "D3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6226806640625,
+          55.75532709909638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hello4",
+        "description": "D4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.529296875,
+          55.78197922246133
         ]
       }
     }
